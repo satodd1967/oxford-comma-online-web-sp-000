@@ -4,5 +4,8 @@ oc3 = ["kiwi", "durian", "starfruit", "mangos", "dragon fruits"]
 oc4 = ["kiwi", "durian", "starfruit", "mangos", "dragon fruits", "lychees", "pomelos"]
 
 def oxford_comma(array)
-  array.join(" and ")
+  new_string = ""
+   new_string << array.join(" and ")
+  end
+   new_string
 end
