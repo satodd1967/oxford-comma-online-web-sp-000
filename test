@@ -5,6 +5,7 @@ oc4 = ["kiwi", "durian", "starfruit", "mangos", "dragon fruits", "lychees", "pom
 
 def oxford_comma(array)
   new = array.pop
+  new
 end
 
     
